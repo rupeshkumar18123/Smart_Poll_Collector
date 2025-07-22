@@ -1,6 +1,6 @@
 // import React, { useState, useEffect } from 'react';
 // import { submitVote, hasVoted } from '../services/api';
-
+//import { v4 as uuidv4 } from 'uuid';
 // export default function VoteForm({ poll }) {
 //   const [selectedOption, setSelectedOption] = useState(null);
 //   const [voterId, setVoterId] = useState('');
